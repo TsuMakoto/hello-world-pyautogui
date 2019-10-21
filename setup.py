@@ -17,7 +17,7 @@ setup(
     description='Hello World with java which auto generated source code.',
     long_description=readme,
     author='TsuMakoto',
-    url='https://github.com/TsuMakoto/hello-world-pyautogui',
+    url='https://github.com/TsuMakoto/hello_world_pyautogui',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )

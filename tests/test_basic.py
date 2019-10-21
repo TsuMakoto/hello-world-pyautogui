@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .context import sample
+from .context import hello_world_pyautogui
 
 import unittest
 

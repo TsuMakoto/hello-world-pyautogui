@@ -1,2 +1,6 @@
 Python-3.7.3/*
 !Python-3.7.3/.gitkeep
+
+/**/__pycache__
+
+hello_world_pyautogui.egg-info

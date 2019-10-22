@@ -12,12 +12,12 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='hello-world-pyautogui',
+    name='mario_kart_ai',
     version='0.1.0',
-    description='Hello World with java which auto generated source code.',
+    description='Mario Kart AI',
     long_description=readme,
     author='TsuMakoto',
-    url='https://github.com/TsuMakoto/hello_world_pyautogui',
+    url='https://github.com/TsuMakoto/mario-kart-ai',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )

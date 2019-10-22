@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .context import mario_kart_ai
+from .context import hello_world_pyautogui
 
 import unittest
 
@@ -9,7 +9,7 @@ class AdvancedTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
     def test_thoughts(self):
-        self.assertIsNone(mario_kart_ai.hmm())
+        self.assertIsNone(hello_world_pyautogui.hmm())
 
 
 if __name__ == '__main__':
